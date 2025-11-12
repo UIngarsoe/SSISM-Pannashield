@@ -30,3 +30,17 @@ git clone https://github.com/UIngarsoe/SSISM-Pannashield.git
 cd SSISM-Pannashield
 pip install -r requirements.txt
 streamlit run atrocity_index/app.py
+
+
+---
+
+File 2: `requirements.txt` (Root)
+```txt
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+opencv-python
+pillow
+requests
